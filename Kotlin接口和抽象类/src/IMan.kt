@@ -1,0 +1,4 @@
+interface IMan {
+
+    fun JJ()
+}
